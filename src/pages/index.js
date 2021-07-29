@@ -10,7 +10,7 @@ const IndexPage = () => (
       <Col className="text-center" md={6}>
         <Card>
           <Card.Image src="https://images.pexels.com/photos/1110656/pexels-photo-1110656.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" />
-          <Card.Header>This is the First Header</Card.Header>
+          <Card.Header>Hello World</Card.Header>
           <Card.Title>This is the title</Card.Title>
           <Card.Text>This is the text</Card.Text>
         </Card>
